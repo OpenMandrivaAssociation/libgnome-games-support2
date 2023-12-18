@@ -101,4 +101,4 @@ find %{buildroot} -name '*.la' -delete
 %{_datadir}/vala/vapi/*.vapi
 %{_includedir}/gnome-games-support-%{api}/
 %{_libdir}/%{oname}-%{api}.so
-%{_libdir}/pkgconfig/%{name}*.pc
+#{_libdir}/pkgconfig/%{name}*.pc
