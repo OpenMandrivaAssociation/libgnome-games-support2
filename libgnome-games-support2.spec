@@ -11,7 +11,7 @@
 %define oname libgnome-games-support
 
 Name:		libgnome-games-support2
-Version:	2.0.1
+Version:	2.0.2
 Release:	1
 Summary:	Support library for GNOME games
 Group:		Development/GNOME and GTK+
