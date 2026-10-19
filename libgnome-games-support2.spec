@@ -12,7 +12,7 @@
 
 Name:		libgnome-games-support2
 Version:	2.0.2
-Release:	3
+Release:	4
 Summary:	Support library for GNOME games
 Group:		Development/GNOME and GTK+
 License:	LGPLv3+
